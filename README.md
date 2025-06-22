@@ -15,7 +15,7 @@ The full release will include:
 Build the code using Docker with:
 
 ```bash
-cd rss2025_paper499_code
+cd wavestar
 docker build .
 ```
 
